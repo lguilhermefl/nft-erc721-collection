@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@lguilhermefl 
-lguilhermefl
-/
-nft-erc721-collection
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-nft-erc721-collection/smart-contract/contracts/YourNftToken.sol
-
-luizdriven22@driven.com feat: add max mint per wallet and max free mint per wallet
-Latest commit 93be9d5 21 minutes ago
- History
- 0 contributors
-178 lines (142 sloc)  6.15 KB
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity >=0.8.9 <0.9.0;
